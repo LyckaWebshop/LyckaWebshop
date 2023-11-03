@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/LyckaWebshop/precache-manifest.9aa82501cac87191485dafbd21bc7a4d.js"
+  "/LyckaWebshop/precache-manifest.15d12ae9674346bb484031eb47edbb5c.js"
 );
 
 self.addEventListener('message', (event) => {
