@@ -55,7 +55,7 @@ const App = () => {
     const fetchProducts = async () => {
         if(window.results.group && window.results.subjectGroup) {
             const {data} = await commerce.products.list({
-                limit: 150,
+                limit: 88,
             });
             shuffleProducts(data);
             //adjustPrices(data); DEACTIVATING PRICE ENGINE: TO ACTIVATE, REMOVE COMMENTS ON EVERY "adjustPrices" function in this file
