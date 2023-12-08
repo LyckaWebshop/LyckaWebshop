@@ -32,9 +32,8 @@ export default function Intro1({open, setOpen}) {
                             <br/> <br/>
                             A note on how to participate:
                             <br/><br/>
-                            (1)	Please do not click return or refresh in your browser during the participation!
+                            Please do not click return or refresh in your browser during the participation!
                             <br/>
-                            (2)	Payment – For this survey you will receive a fixed payment of 1.5 £. Your variable payment corresponds to one of the items in your basket. Which item is determined randomly. The price of the randomly selected item will then be transferred to real money. For instance, a price of 30€ in the online shop corresponds to an amount of 30*0.015=0.45 £ of real money. This is your variable payment.
                             <br/>
                             <br/>
                             Thank you very much for your participation and your valuable time!

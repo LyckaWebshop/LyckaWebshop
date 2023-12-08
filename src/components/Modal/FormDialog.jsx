@@ -29,7 +29,7 @@ export default function FormDialog({open, setOpen}) {
             }
             if(text.length < 4){
                 setErrorGroup(true);
-                setHelperTextGroup("Please enter your correct Participation Nr.");
+                setHelperTextGroup("Please enter your correct Webshop Acess Code");
             }
         }
         else{
@@ -51,7 +51,7 @@ export default function FormDialog({open, setOpen}) {
                         autoFocus
                         margin="dense"
                         id="id-input"
-                        label="ID"
+                        label="Prolific-ID"
                         type="id"
                         value={text}
                         onChange={event => setText(event.target.value )}
@@ -63,7 +63,7 @@ export default function FormDialog({open, setOpen}) {
                         autoFocus
                         margin="dense"
                         id="group-input"
-                        label="Participation Number"
+                        label="Webshop-Access-Code"
                         type="id"
                         value={textGroup}
                         onChange={event => setTextGroup(event.target.value)}

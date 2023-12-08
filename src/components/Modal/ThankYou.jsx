@@ -1,16 +1,13 @@
-import React, {useState} from 'react';
+import React from 'react';
 import Button from '@material-ui/core/Button';
-import TextField from '@material-ui/core/TextField';
 import Dialog from '@material-ui/core/Dialog';
-import DialogActions from '@material-ui/core/DialogActions';
 import DialogContent from '@material-ui/core/DialogContent';
 import DialogContentText from '@material-ui/core/DialogContentText';
 import DialogTitle from '@material-ui/core/DialogTitle';
 
-export default function ThankYou({open}) {
-
+export default function ThankYou({ open, extrapayment, variablePayment, totalPayment, setOpen }) {
     function leaveSurvey() {
-        window.open("https://app.prolific.co/submissions/complete?cc=7B356C5D","_self");
+        window.open("https://app.prolific.co/submissions/complete?cc=7B356C5D", "_self");
     }
 
     return (
@@ -19,8 +16,10 @@ export default function ThankYou({open}) {
                 <DialogTitle id="form-dialog-title">Thanks for participation!</DialogTitle>
                 <DialogContent>
                     <DialogContentText>
-                        Receive your payment via this Button: <br/><br/><Button size="small" type="button" variant="contained"
-                                                                                         color="primary" onClick={leaveSurvey}>Receive payment</Button><br/>
+                        Your fixed payment is: {extrapayment} £ <br/>
+                        Your variable payment is: {variablePayment} £ <br/>
+                        Your total payment is: {totalPayment} £ <br/><br/>
+                        <Button size="small" type="button" variant="contained" color="primary" onClick={() => { leaveSurvey(); setOpen(false); }}>Receive payment</Button><br/>
                     </DialogContentText>
                 </DialogContent>
             </Dialog>
