@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "50ce7de94f8b30f34555bc2497916dff",
+    "revision": "8087776743a022be9afdbc22e9d5a24d",
     "url": "/LyckaWebshop/index.html"
   },
   {
-    "revision": "7f7bd6c83a343947af9d",
+    "revision": "74991b289ae5a8066b3f",
     "url": "/LyckaWebshop/static/css/main.f250ab75.chunk.css"
   },
   {
-    "revision": "533c26e027fdc27901ca",
-    "url": "/LyckaWebshop/static/js/2.26d8b061.chunk.js"
+    "revision": "729ceea0fe220354a0aa",
+    "url": "/LyckaWebshop/static/js/2.38ad6672.chunk.js"
   },
   {
     "revision": "72f265bfc6b778ed03ef626d21aac8dd",
-    "url": "/LyckaWebshop/static/js/2.26d8b061.chunk.js.LICENSE.txt"
+    "url": "/LyckaWebshop/static/js/2.38ad6672.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7f7bd6c83a343947af9d",
-    "url": "/LyckaWebshop/static/js/main.8ed90256.chunk.js"
+    "revision": "74991b289ae5a8066b3f",
+    "url": "/LyckaWebshop/static/js/main.97f8b021.chunk.js"
   },
   {
     "revision": "4e0e34f265fae8f33b01b27ae29d9d6f",
-    "url": "/LyckaWebshop/static/js/main.8ed90256.chunk.js.LICENSE.txt"
+    "url": "/LyckaWebshop/static/js/main.97f8b021.chunk.js.LICENSE.txt"
   },
   {
     "revision": "c4475f1fd66af7c8bd4e",
