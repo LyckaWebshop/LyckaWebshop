@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "afa5a469cb836b418e1fb48209f10526",
+    "revision": "1d72262621a1aee8c0401626ad53529e",
     "url": "/LyckaWebshop/index.html"
   },
   {
-    "revision": "9da6562aec03d8a49757",
+    "revision": "6a1c9cdd5ae28683b423",
     "url": "/LyckaWebshop/static/css/main.f250ab75.chunk.css"
   },
   {
@@ -16,12 +16,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LyckaWebshop/static/js/2.efa4adfd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9da6562aec03d8a49757",
-    "url": "/LyckaWebshop/static/js/main.df500a75.chunk.js"
+    "revision": "6a1c9cdd5ae28683b423",
+    "url": "/LyckaWebshop/static/js/main.0c60d05d.chunk.js"
   },
   {
     "revision": "4e0e34f265fae8f33b01b27ae29d9d6f",
-    "url": "/LyckaWebshop/static/js/main.df500a75.chunk.js.LICENSE.txt"
+    "url": "/LyckaWebshop/static/js/main.0c60d05d.chunk.js.LICENSE.txt"
   },
   {
     "revision": "c4475f1fd66af7c8bd4e",
