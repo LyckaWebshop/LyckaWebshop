@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/LyckaWebshop/static/css/main.f250ab75.chunk.css",
-    "main.js": "/LyckaWebshop/static/js/main.8ed90256.chunk.js",
-    "main.js.map": "/LyckaWebshop/static/js/main.8ed90256.chunk.js.map",
+    "main.js": "/LyckaWebshop/static/js/main.be388414.chunk.js",
+    "main.js.map": "/LyckaWebshop/static/js/main.be388414.chunk.js.map",
     "runtime-main.js": "/LyckaWebshop/static/js/runtime-main.aa1195df.js",
     "runtime-main.js.map": "/LyckaWebshop/static/js/runtime-main.aa1195df.js.map",
-    "static/js/2.26d8b061.chunk.js": "/LyckaWebshop/static/js/2.26d8b061.chunk.js",
-    "static/js/2.26d8b061.chunk.js.map": "/LyckaWebshop/static/js/2.26d8b061.chunk.js.map",
+    "static/js/2.efa4adfd.chunk.js": "/LyckaWebshop/static/js/2.efa4adfd.chunk.js",
+    "static/js/2.efa4adfd.chunk.js.map": "/LyckaWebshop/static/js/2.efa4adfd.chunk.js.map",
     "index.html": "/LyckaWebshop/index.html",
-    "precache-manifest.9f90330bd9879502c5b5b1623a36734c.js": "/LyckaWebshop/precache-manifest.9f90330bd9879502c5b5b1623a36734c.js",
+    "precache-manifest.88f44f281d572caf8c3c1237f1891b37.js": "/LyckaWebshop/precache-manifest.88f44f281d572caf8c3c1237f1891b37.js",
     "service-worker.js": "/LyckaWebshop/service-worker.js",
     "static/css/main.f250ab75.chunk.css.map": "/LyckaWebshop/static/css/main.f250ab75.chunk.css.map",
-    "static/js/2.26d8b061.chunk.js.LICENSE.txt": "/LyckaWebshop/static/js/2.26d8b061.chunk.js.LICENSE.txt",
-    "static/js/main.8ed90256.chunk.js.LICENSE.txt": "/LyckaWebshop/static/js/main.8ed90256.chunk.js.LICENSE.txt",
+    "static/js/2.efa4adfd.chunk.js.LICENSE.txt": "/LyckaWebshop/static/js/2.efa4adfd.chunk.js.LICENSE.txt",
+    "static/js/main.be388414.chunk.js.LICENSE.txt": "/LyckaWebshop/static/js/main.be388414.chunk.js.LICENSE.txt",
     "static/media/Logo.png": "/LyckaWebshop/static/media/Logo.e993abba.png",
     "static/media/icon.svg": "/LyckaWebshop/static/media/icon.28a304ac.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.aa1195df.js",
-    "static/js/2.26d8b061.chunk.js",
+    "static/js/2.efa4adfd.chunk.js",
     "static/css/main.f250ab75.chunk.css",
-    "static/js/main.8ed90256.chunk.js"
+    "static/js/main.be388414.chunk.js"
   ]
 }
